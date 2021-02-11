@@ -1,7 +1,7 @@
 {
-  "name": "hardhat-hackathon-boilerplate",
+  "name": "deadmanswitch",
   "version": "1.0.0",
-  "description": "A boilerplate repository to get you started with Hardhat and Ethereum development",
+  "description": "A decentralized deadman switch.",
   "directories": {
     "test": "test"
   },
@@ -31,5 +31,9 @@
     "ethers": "^5.0.0",
     "hardhat": "^2.0.4",
     "husky": "^4.2.5"
-  }
+  },
+  "volta": {
+    "node": "14.15.5"
+  },
+  "dependencies": {}
 }
